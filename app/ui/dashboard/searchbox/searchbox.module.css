@@ -1,0 +1,28 @@
+.container {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: var(--bgSoft);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+
+.search {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #2e374a;
+    padding: 10px;
+    border-radius: 10px;
+  }
+
+  .input {
+    background-color: transparent;
+    border: none;
+    color: var(--text);
+  }
+
+  .search :focus{
+    outline: none;
+  }
