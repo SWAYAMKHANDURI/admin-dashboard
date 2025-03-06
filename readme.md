@@ -1,0 +1,1 @@
+this is a next js admin dashboard 
